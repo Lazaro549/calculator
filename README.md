@@ -1,4 +1,4 @@
-# Interactive Bilingual Calculator 🇬🇧
+# Interactive Bilingual Calculator 
 
 A simple yet powerful console-based calculator written in Python. It supports basic operations, counting, averaging, percentages, and square roots. The user can choose between English or Spanish at startup!
 
