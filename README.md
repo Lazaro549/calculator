@@ -27,10 +27,3 @@ A simple yet powerful console-based calculator written in Python. It supports ba
 
 ```bash
 python numbers.py
-```
-## ❤️ Support this project
-
-If you find this project useful, consider supporting it via GitHub Sponsors.  
-Your support helps maintain and improve the project.
-
-👉 [Become a Sponsor](https://github.com/sponsors/Lazaro549)
